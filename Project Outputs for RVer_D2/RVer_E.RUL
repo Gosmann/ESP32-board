@@ -1,0 +1,20 @@
+DRC Rules Export File for PCB: C:\Imported RVer_D2.PrjPcb\RVer_E.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=31.00
+RuleKind=Clearance|RuleName=CLR-PLANO-TOP|Scope=Board|Minimum=31.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_Design_HoleToHole|Scope=Board|Minimum=13.00
+RuleKind=Clearance|RuleName=Clearance_Bottom Layer, Bottom_ViaToVia|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Bottom Layer, Bottom_ViaToLine|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Bottom Layer, Bottom_ViaToPad|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Bottom Layer, Bottom_LineToLine|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Bottom Layer, Bottom_PadToLine|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Bottom Layer, Bottom_PadToPad|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Top Layer, Top_ViaToVia|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Top Layer, Top_ViaToLine|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Top Layer, Top_ViaToPad|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Top Layer, Top_LineToLine|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Top Layer, Top_PadToLine|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Top Layer, Top_PadToPad|Scope=Board|Minimum=11.81

@@ -1,0 +1,17 @@
+ERC report (6/21/2020 9:41:51 PM, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(78.74 mm, 67.31 mm): Pin 1 (Power input) of component #PWR0104 is not driven (Net 7).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(165.10 mm, 55.88 mm): Pin 1 (Power input) of component #PWR0118 is not driven (Net 20).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(367.03 mm, 41.91 mm): Pin 1 (Power input) of component #PWR0159 is not driven (Net 21).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(375.92 mm, 142.24 mm): Pin 11 (Power input) of component U113 is not driven (Net 78).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(114.30 mm, 198.12 mm): Pin 1 (Power input) of component U103 is not driven (Net 121).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(114.30 mm, 236.22 mm): Pin 1 (Power input) of component U104 is not driven (Net 124).
+
+ ** ERC messages: 6  Errors 0  Warnings 6

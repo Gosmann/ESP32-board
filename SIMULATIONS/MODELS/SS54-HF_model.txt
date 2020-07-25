@@ -1,0 +1,1 @@
+.model SS54-HF D(Is=.4mA Rs=.016 N=2.1 Cjo=500p Eg=.69 Xti=2 Iave=5 Vpk=40 mfg=Fairchild type=Schottky)

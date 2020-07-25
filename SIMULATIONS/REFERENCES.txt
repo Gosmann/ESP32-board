@@ -1,0 +1,16 @@
+Link importantes pra tudo funcionar:
+
+Como adicionar modelos de terceiros no LTSpice
+- https://www.analog.com/en/technical-articles/ltspice-simple-steps-to-import-third-party-models.html#
+
+Como arrumar o modelo do LM2596 para a versão ajustável
+- https://www.pspice.com/lm2596-pspice-module
+
+Como obter a média de um sinal
+- https://www.analog.com/en/technical-articles/ltspice-computing-the-average-or-rms-value-of-a-trace.html
+
+Modelo Spice de diodos
+- http://www.acsu.buffalo.edu/~wie/applet/spice_pndiode/spice_diode_table.html
+
+Sweeping param and temp no LTSpice
+- https://www.youtube.com/watch?v=eRtO3EZK_Cc

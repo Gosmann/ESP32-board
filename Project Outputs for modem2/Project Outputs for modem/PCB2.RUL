@@ -1,0 +1,16 @@
+DRC Rules Export File for PCB: E:\MICRO SERVIDOR ELIPSE\Backup\MODEM\MODEM 2S V2\Project Outputs for modem\PCB2.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_6|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance_5|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance_4|Scope=Board|Minimum=23.62
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_3|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_7|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance_8|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance_9|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance_10|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance_11|Scope=Board|Minimum=23.62

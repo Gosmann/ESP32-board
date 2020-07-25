@@ -1,0 +1,26 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RVer_E.PcbDoc   24/3/2011  10:47:36
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer, Top to Bottom Layer, Bottom
+ASCII RoundHoles File : RVer_E.TXT
+EIA File   : RVer_E.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        18mil (0.4572mm)         Round          246              48.95 Inch (1243.36 mm)
+T2        27.6mil (0.70104mm)      Round          2                0.20 Inch (5.00 mm)
+T3        28mil (0.7112mm)         Round          14               7.16 Inch (181.86 mm)
+T4        31.5mil (0.8001mm)       Round          74               29.01 Inch (736.76 mm)
+T5        38mil (0.9652mm)         Round          203              49.08 Inch (1246.76 mm)
+T6        39.4mil (1.00076mm)      Round          2                0.28 Inch (7.00 mm)
+T7        43.3mil (1.09982mm)      Round          35               11.04 Inch (280.48 mm)
+T8        46mil (1.1684mm)         Round          9                1.01 Inch (25.72 mm)
+T9        47.2mil (1.19888mm)      Round          38               18.55 Inch (471.12 mm)
+T10       59.1mil (1.50114mm)      Round          2                0.59 Inch (15.00 mm)
+T11       124mil (3.1496mm)        Round          2                0.98 Inch (24.99 mm)
+T12       157.5mil (4.0005mm)      Round          4                18.31 Inch (465.10 mm)
+---------------------------------------------------------------------------
+Totals                                            631              185.16 Inch (4703.14 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

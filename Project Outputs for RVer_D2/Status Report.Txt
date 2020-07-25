@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RVer_D2.PrjPcb]
+   Generated File[RVer_E.TXT]
+   Generated File[RVer_E.DRL]
+   Generated File[RVer_E.LDP]
+   Generated File[RVer_E.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:47:37 On 24/3/2011

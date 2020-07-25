@@ -1,0 +1,193 @@
+********************************************************************************
+***                       Micro-Cap 12.2.0.3 (64 bit)                        ***
+***                                                                          ***
+***                                                                          ***
+***                         Dynamic DC of relay_ckt                          ***
+***                           5/11/2020 5:44:31 PM                           ***
+********************************************************************************
+
+*****************************************************
+***                Temperature=27                 ***
+*****************************************************
+
+Temperature=27
+
+DC Operating Point Voltages
+===========================
+Node         Voltage  Node         Voltage  Node         Voltage 
+1            24.000   2             5.000   3             5.000  
+4             3.300   5            19.946n  6            19.950n 
+7            24.000  
+
+DC Operating Point Inductor Current
+===================================
+Inductor     Current 
+RELAY1.L      7.136p 
+
+
+Operating Point for Devices of Type Diode
+=========================================
+Instance:                D1
+Using model:         1N5819
+
+Capacitance Terms:
+CAP                144.679p
+
+Current Terms:
+ID                -115.593f
+
+Resistance Terms:
+REQ                  4.321K
+
+Voltage Terms:
+VD                -499.537p
+
+Power DC Terms:
+PD               5.774E-023
+PS                   0.000 
+
+DC Pin Currents:
+Id                -115.593f
+
+Condition:
+State                   OFF
+
+Device Variables:
+area                 1.000 
+ic                   0.000 
+
+
+
+Operating Point for Devices of Type Bipolar Junction Transistors NPN
+====================================================================
+Instance:                Q1
+Using model:       BC337_40
+
+Beta Terms:
+BETADC              -3.642 
+BETAAC             125.083 
+
+Capacitance Terms:
+CPI                 34.193p
+CMU                  5.066p
+CBX                  0.000 
+CJS                  0.000 
+
+Conductance Terms:
+GM                 360.886f
+
+Current Terms:
+IB                  -1.991p
+IC                   7.252p
+
+Resistance Terms:
+RPI                346.600T
+RX                   0.000 
+RO                 909.008G
+
+Voltage Terms:
+VBE                 19.946n
+VBC                 -5.000 
+VCE                  5.000 
+
+Frequency Terms:
+FT                   1.463m
+
+Power DC Terms:
+PD                  36.259p
+PS                   0.000 
+
+DC Pin Currents:
+Ib                  -1.991p
+Ic                   7.252p
+Ie                  -5.261p
+Is                   0.000 
+
+Condition:
+State                   OFF
+
+Device Variables:
+area                 1.000 
+vbe                  0.000 
+vce                  0.000 
+
+
+
+Operating Point for Devices of Type Resistor
+============================================
+Instance:           RELAY1.R             R1             R2     SWITCH4.R1
+V                   499.537p         3.300p       -19.946n         3.300 
+Power DC Terms:
+PD                3.565E-021     1.089E-026     3.979E-020        10.890f
+
+DC Pin Currents:
+Ir                    7.136p         3.300f        -1.995p         3.300f
+
+Device Variables:
+tc1                   0.000          0.000          0.000          0.000 
+tc2                   0.000          0.000          0.000          0.000 
+
+
+Instance:         SWITCH4.R2             R3
+V                     3.300         -2.400u
+Power DC Terms:
+PD                   10.890p       576.000f
+
+DC Pin Currents:
+Ir                    3.300p      -240.000n
+
+Device Variables:
+tc1                   0.000          0.000 
+tc2                   0.000          0.000 
+
+
+
+Operating Point for Devices of Type Inductor
+============================================
+Instance:           RELAY1.L
+V                     0.000 
+Power DC Terms:
+PS                    0.000 
+
+DC Pin Currents:
+Il                    7.136p
+
+Device Variables:
+ic                    0.000 
+
+
+
+Operating Point for Devices of Type W
+=====================================
+Instance:           RELAY1.W
+Power DC Terms:
+PD                    5.760u
+
+DC Pin Currents:
+ISource             240.000n
+
+Condition:
+State                    OFF
+
+
+
+Operating Point for Devices of Type SPICE Source
+================================================
+Instance:         RELAY1.V1      RELAY1.V2             V1             V2
+V                    0.000          0.000          3.300          5.000 
+Power DC Terms:
+PG                   0.000          0.000         10.901p        36.285p
+
+DC Pin Currents:
+ISource              7.136p       240.000n        -3.303p        -7.257p
+
+
+Instance:        SWITCH4.V1             V3
+V                    0.000         24.000 
+Power DC Terms:
+PG                   0.000          5.760u
+
+DC Pin Currents:
+ISource              3.303p      -240.000n
+
+
