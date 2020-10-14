@@ -1,4 +1,4 @@
-17032185042784084
+17059368333345898
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75285,6 +75285,13 @@ DSUB-9_Female_EdgeMount_P2.77mm
 9
 9
 e-Power
+ESOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.81mm_ThermalVias
+SOIC, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf#page=29), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+20
+9
+e-Power
 ESP-32-dev-kit
 
 
@@ -75294,6 +75301,13 @@ ESP-32-dev-kit
 e-Power
 FB_0603_1608Metric
 Ferrite bead SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+Ferrite bead
+0
+2
+2
+e-Power
+FB_0805_2012Metric
+Ferrite bead SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 Ferrite bead
 0
 2
@@ -75348,6 +75362,13 @@ Choke SMD
 2
 2
 e-Power
+L_12x12mm_H6mm
+Choke, SMD, 12x12mm 6mm height
+Choke SMD
+0
+2
+2
+e-Power
 Logo_ESD_8.9x8mm_Copper
 Electrostatic discharge Logo on Copper Layer
 Logo ESD
@@ -75358,6 +75379,48 @@ e-Power
 Logo_ESD_8.9x8mm_Silk
 Electrostatic discharge Logo on Silkscreen layer
 Logo ESD
+0
+0
+0
+e-Power
+Logo_High_Voltage_6.8x6.0mm_Copper
+
+logo
+0
+0
+0
+e-Power
+Logo_High_Voltage_6.8x6.0mm_SilkS
+
+logo
+0
+0
+0
+e-Power
+Logo_High_Voltage_9.1x8.0mm_Copper
+
+logo
+0
+0
+0
+e-Power
+Logo_High_Voltage_9.1x8.0mm_SilkS
+
+logo
+0
+0
+0
+e-Power
+Logo_High_Voltage_13.7x12.0mm_Copper
+
+logo
+0
+0
+0
+e-Power
+Logo_High_Voltage_13.7x12.0mm_SilkS
+
+logo
 0
 0
 0
@@ -75411,6 +75474,13 @@ logo UFRGS
 0
 0
 e-Power
+Logo_UFRGS_22.0x12.0mm_Mask
+
+logo UFRGS
+0
+0
+0
+e-Power
 Logo_UFRGS_22.0x12.0mm_SilkS
 
 logo UFRGS
@@ -75453,6 +75523,13 @@ Logo_e-Power_22.8x12.0mm_Copper
 0
 0
 e-Power
+Logo_e-Power_22.8x12.0mm_Mask
+
+
+0
+0
+0
+e-Power
 Logo_e-Power_22.8x12.0mm_SilkS
 
 
@@ -75473,6 +75550,13 @@ Logo_e-Power_41.3x20.0mm_SilkS
 0
 0
 0
+e-Power
+Molex_Mini-Fit_Jr_2x04_P4.20mm_Horizontal
+Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-08A2, example for new mpn: 39-30-0080, 4 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039300020_sd.pdf), generated with kicad-footprint-generator
+connector Molex Mini-Fit_Jr top entryplastic_peg
+0
+8
+8
 e-Power
 MountingHole_3.2mm_M3_Pad
 Mounting Hole 3.2mm, M3, 
@@ -75508,6 +75592,13 @@ relay Sanyu SRD form C
 0
 5
 5
+e-Power
+Relay_SPST_Omron-G5Q-1A
+Relay SPST-NO Omron Serie G5NB
+Relay SPST-NO Omron Serie G5NB
+0
+4
+4
 e-Power
 SIM800L
 e-Power microcontroller standard board
@@ -75558,6 +75649,13 @@ tact sw push 6mm smd
 4
 2
 e-Power
+SW_SPST_CK_8.0x2.5x3.65mm
+https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf
+SPST button tactile switch
+0
+2
+2
+e-Power
 TLP290-4
 16-lead TH DIP package
 THT DIP DIL PDIP 2.54mm 7.62mm 300mil
@@ -75577,6 +75675,13 @@ TO-92 SMD
 TO-92 SMD
 0
 3
+3
+e-Power
+TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+4
 3
 e-Power
 TO-220-3_SMD_horizontal
@@ -75600,18 +75705,25 @@ Potentiometer horizontal Vishay T73XW
 3
 3
 e-Power
-TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal
-Terminal Block Phoenix MKDS-1,5-2, 2 pins, pitch 5mm, size 10x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
-THT Terminal Block Phoenix MKDS-1,5-2 pitch 5mm size 10x9.8mm^2 drill 1.3mm pad 2.6mm
+TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-2, 2 pins, pitch 5.08mm, size 10x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-2 pitch 5.08mm size 10x9.8mm^2 drill 1.3mm pad 2.6mm
 0
+4
 2
+e-Power
+TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.08mm_Horizontal_3D
+Terminal Block Phoenix MKDS-1,5-2, 2 pins, pitch 5.08mm, size 10x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-2 pitch 5.08mm size 10x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+4
 2
 e-Power
 TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal
 Terminal Block Phoenix MKDS-1,5-4-5.08, 4 pins, pitch 5.08mm, size 20.3x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
 THT Terminal Block Phoenix MKDS-1,5-4-5.08 pitch 5.08mm size 20.3x9.8mm^2 drill 1.3mm pad 2.6mm
 0
-4
+8
 4
 e-Power
 TerminalBlock_Phoenix_MKDS-1,5-8-5.08_1x08_P5.08mm_Horizontal
@@ -75620,6 +75732,13 @@ THT Terminal Block Phoenix MKDS-1,5-8-5.08 pitch 5.08mm size 40.6x9.8mm^2 drill 
 0
 8
 8
+e-Power
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
 e-Power
 UFRGS_36.7x20.0mm_Copper
 logo da UFRGS com 36.7mm de altura e 20.0mm de largura
