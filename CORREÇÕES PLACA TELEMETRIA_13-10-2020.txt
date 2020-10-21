@@ -18,7 +18,7 @@ ok 8. CONFIGURAR TENSÃO NA ENTRADA DO ESP32 PARA 3V COM 20mA (OU SEJA, RESISTOR
 		- GANHO = 1 - DEMAIS RESISTORES = 10K
 		- 4 a 20mA vai entrar 0,6 a 3,0V no ESP32
 
-(?) 9. LIGAR PINOS 1, 3, 5 E 7 DO J101 NO GND 
+ok 9. LIGAR PINOS 1, 3, 5 E 7 DO J101 NO GND 
 Eu configurei para que os pinos pares (na marcação do silkscreen da placa) sejam GND
 
 ok 10. PLACA COM 04 LAYERS:
@@ -41,7 +41,7 @@ Omron G5NB-1A-E 5V: https://pt.aliexpress.com/item/4000291210492.html?spm=a2g0o.
 Trilho DIM:
 - https://produto.mercadolivre.com.br/MLB-1182332828-modulo-interface-para-esp32-com-borne-para-trilho-dim970101-_JM#reco_item_pos=2&reco_backend=machinalis-seller-items-pdp&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=9b581f14-27d8-465d-9d99-c637824bccb8
 - https://produto.mercadolivre.com.br/MLB-1235755104-kit-10-suporte-pcb-borne-103mm-com-furo-para-trilho-din-35mm-_JM?matt_tool=79246729&matt_word=&matt_source=google&matt_campaign_id=6542746973&matt_ad_group_id=82254694281&matt_match_type=&matt_network=u&matt_device=c&matt_creative=385099301982&matt_keyword=&matt_ad_position=&matt_ad_type=&matt_merchant_id=114501038&matt_product_id=MLB1235755104&matt_product_partition_id=472057081367&matt_target_id=pla-472057081367&gclid=Cj0KCQjwoJX8BRCZARIsAEWBFML5u5MlbhmQhh5Z1GH5qvyHQPRCbGEXyxYPFwQro95xmTZoBWLyeNoaArJHEALw_wcB
-- https://pt.aliexpress.com/item/4000539460290.html?spm=a2g0o.productlist.0.0.35223ba09xI0jg&algo_pvid=e104dde8-cfea-450c-af49-ab11287b63a9&algo_expid=e104dde8-cfea-450c-af49-ab11287b63a9-8&btsid=0bb0623216026398730845467e03dd&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+->- https://pt.aliexpress.com/item/4000539460290.html?spm=a2g0o.productlist.0.0.35223ba09xI0jg&algo_pvid=e104dde8-cfea-450c-af49-ab11287b63a9&algo_expid=e104dde8-cfea-450c-af49-ab11287b63a9-8&btsid=0bb0623216026398730845467e03dd&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
 - https://pt.aliexpress.com/item/32979849362.html?src=google&albch=shopping&acnt=494-037-6276&isdl=y&slnk=&plac=&mtctp=&albbt=Gploogle_7_shopping&aff_atform=google&aff_short_key=UneMJZVf&&albagn=888888&albcp=1626568036&albag=65942329430&trgt=743612850874&crea=pt32979849362&netw=u&device=c&albpg=743612850874&albpd=pt32979849362&gclid=Cj0KCQjwoJX8BRCZARIsAEWBFMJjHaTniIk0n2kOk1ry_x-oXHVdskinJ1paTJBJx5dQsSwF4f_7g7UaAi1qEALw_wcB&gclsrc=aw.ds
 - https://www.usinainfo.com.br/caixas-patola/case-szomk-para-montagem-145x90x40mm-gabinete-para-trilho-din-bornes-5027.html
 - https://pt.aliexpress.com/i/32767744974.html?spm=a2g03.search0301.3.1.577123ebd722JP&ws_ab_test=searchweb0_0,searchweb201602_0,searchweb201603_0,ppcSwitch_0&algo_pvid=dc0503da-da34-4e41-8b86-bb36b42aab10&algo_expid=dc0503da-da34-4e41-8b86-bb36b42aab10-0
