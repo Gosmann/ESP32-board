@@ -1,4 +1,4 @@
-17059368333345898
+17067387353457962
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75236,6 +75236,13 @@ Allegro CB-PSF
 5
 5
 e-Power
+BatteryHolder_1x18650
+Battery holder for 18650 cylindrical cells http://www.keyelco.com/product.cfm/product_id/918
+18650 Keystone 1042 Li-ion
+0
+3
+3
+e-Power
 CP_Elec_10x10
 SMD capacitor, aluminum electrolytic, Nichicon, 10.0x10.0mm
 capacitor electrolytic
@@ -75771,6 +75778,34 @@ e-Power
 WEEE-Logo_5.6x8mm_Copper
 Waste Electrical and Electronic Equipment Directive
 Logo WEEE
+0
+0
+0
+e-Power
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+e-Power
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+e-Power
+mouse-bite-2.54mm-slot-single
+
+
+0
+0
+0
+e-Power
+mouse-bite-2mm-slot
+
+
 0
 0
 0
